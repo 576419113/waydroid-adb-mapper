@@ -2,6 +2,8 @@
 使用adb为waydroid进行按键映射。Use adb to create key mapper for waydroid.
 ## 优势
 只依赖adb和系统及python，在各种linux设备兼容性极佳。
+## 视频展示
+【简单高效的waydroid按键映射方案：adb】https://www.bilibili.com/video/BV11hkXBcEw4?vd_source=3967627a29b00929620c6e783d1ddf12
 ## 前提
 请自行安装python的`evdev`，并使用sudo提权（或者su）运行
 并请自行使用adb连接waydroid设备
