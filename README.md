@@ -26,4 +26,4 @@ longpress长按坐标，tap单击，长按映射到waydroid正常
 程序中按x自动开关指针指示。
 ## 恰饭
 ![](wechat.png)
-![](alipay.png)
+![](alipay.jpg)
