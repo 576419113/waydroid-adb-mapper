@@ -1,0 +1,8 @@
+#joy,坐标，偏移
+mapperlist=[
+["KEY_J","longpress",1876,958],
+["KEY_B","tap",262,563],
+["KEY_K","longpress",2176,809],
+["KEY_L","tap",2212,1104],
+["KEY_I","longpress",1880,1241]
+]
